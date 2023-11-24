@@ -1,0 +1,33 @@
+/************CUSTOM PROPERTIES*************/
+:root {
+  --first-color: #dec803;
+  --second-color: #c1001c;
+  --third-color: #e9451c;
+  --four-color: #facf89;
+  --five-color: #9abe56;
+  --six-color: #00913b;
+  --black-color: black;
+  --white-color: white;
+}
+
+/************Styles*************/
+
+main {
+  background-color: var(--second-color);
+}
+
+table {
+  font-family: "Cabin", sans-serif;
+  background-color: var(--white-color);
+  border: var(--six-color) 3px solid;;
+}
+
+thead,
+tfoot {
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+
+.title th {
+  text-transform: none;
+}

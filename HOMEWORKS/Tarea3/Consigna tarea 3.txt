@@ -1,0 +1,9 @@
+Para esta tarea crearemos una hoja CSS para cada hoja HTML del sitio que veniamos creando con HTML, y aplicaremos todos los conocimientos sobre selectores que hemos visto en esta clase. Pueden empezar un proyecto nuevo si no quieren trabajar sobre el/los hechos anteriormente si prefieren.
+
+Consigna:
+
+Seleccionar una o más fuentes de texto y agregarlas al proyecto.
+Seleccionar una paleta de colores y por medio de ella agregar color al texto y color al fondo de las pàginas.
+Utilizar comentarios en la hoja CSS para ir separando las secciones o bloques de código.
+
+La idea es intentar utilizar la forma más óptima que les salga para el uso de los selectores de modo de ahorrar la mayor cantidad de código posible y lo mas ordenado posible.

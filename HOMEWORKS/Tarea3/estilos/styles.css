@@ -1,0 +1,60 @@
+/************CUSTOM PROPERTIES*************/
+:root {
+  --first-color: #dec803;
+  --second-color: #c1001c;
+  --third-color: #e9451c;
+  --four-color: #facf89;
+  --five-color: #9abe56;
+  --six-color: #00913b;
+  --black-color: black;
+  --white-color: white;
+}
+
+/******************RESET*******************/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/**************Shared Styles**************/
+/*(orden alfabético)*/
+
+a {
+  text-decoration: none;
+  color: var(--second-color);
+}
+
+#banner {
+  background-color: var(--first-color);
+}
+
+#banner,
+footer {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: var(--white-color);
+}
+
+#Firma {
+  font-weight: 200;
+}
+
+footer {
+  background: var(--black-color);
+  color: var(--white-color);
+  font-size: smaller;
+  font-weight: 300;
+}
+
+nav {
+  background-color: var(--white-color);
+  text-transform: uppercase;
+  font-family: "Cabin", sans-serif;
+  font-weight: bolder;
+}
+
+ul > li {
+  list-style: none;
+}

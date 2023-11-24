@@ -1,0 +1,49 @@
+/************CUSTOM PROPERTIES*************/
+:root {
+  --first-color: #dec803;
+  --second-color: #c1001c;
+  --third-color: #e9451c;
+  --four-color: #facf89;
+  --five-color: #9abe56;
+  --six-color: #00913b;
+  --black-color: black;
+  --white-color: white;
+}
+
+/************Styles*************/
+aside {
+  background-color: var(--five-color);
+}
+
+.combos {
+  background-color: var(--third-color);
+}
+
+.Destacadas {
+  background-color: var(--white-color);
+}
+
+h1 {
+  font-family: "Cabin", sans-serif;
+  font-weight: bolder;
+}
+
+h3 ~ p {
+  font-family: "Roboto Slab", serif;
+}
+
+#home {
+  background-color: var(--six-color);
+}
+
+.pizzasEspeciales {
+  background-color: var(--second-color);
+}
+
+section > h2 {
+  font-family: "Calistoga", serif;
+}
+
+section h3 {
+  font-family: "Roboto", sans-serif;
+}

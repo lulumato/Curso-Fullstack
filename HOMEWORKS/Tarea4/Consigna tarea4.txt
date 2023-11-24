@@ -1,0 +1,13 @@
+Todo sitio web necesita tener una sección Home. El Home es la parte del sitio que se ve a primera vista apenas este carga y usualmente se ubica debajo del la barra de navegación.
+Este suele ocupar todo el espacio del navegador y terminar donde termina la pantalla, de modo que cuando el usuario hace scroll la siguiente sección se muestra a continuación de este.
+
+La tarea de hoy será crear una sección Home que efectivamente, junto con la barra de navegación, ocupe todo el alto y ancho de la pantalla de un monitor de escritorio.
+
+Para ello, les dejaré el siguiente enlace como modelo: https://desanda.com.ar/
+
+Consigna:
+
+El home debe tener una altura de 100 vh. 
+Debe tener un fondo de color con degradado. Los colores son a elección.
+Deberá tener una imagen PNG.
+Deberá tener titulo y texto acompañante y ambos deben estar en fuentes extraídas de Google Fonts. Una fuente para el título y una para el texto.

@@ -1,0 +1,26 @@
+/************CUSTOM PROPERTIES*************/
+:root {
+  --first-color: #dec803;
+  --second-color: #c1001c;
+  --third-color: #e9451c;
+  --four-color: #facf89;
+  --five-color: #9abe56;
+  --six-color: #00913b;
+  --black-color: black;
+  --white-color: white;
+}
+
+/************Styles*************/
+form {
+  background-color: var(--second-color);
+}
+
+main {
+  font-family: "Cabin", sans-serif;
+  text-transform: uppercase;
+  color: var(--white-color);
+}
+
+button {
+  background-color: var(--four-color);
+}
